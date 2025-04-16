@@ -1,7 +1,7 @@
 /* ****************************************************************
  * @author: Jephthah M. Orobia
- * @app name: Countdown
- * @app desc: Countdown from a specified number.
+ * @app name: Prime Sieve
+ * @app desc: Determines if a number is a prime number or not.
  * ****************************************************************/
 
 #include <cstdio>
