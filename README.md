@@ -1,6 +1,7 @@
-# Example Program 1: “Countdown
+# Example Program 3: Prime Siever
+- Write a program that will ask the user for a number, then print whether the number is a prime or not.
+- If it is not a prime number, then print all its’ divisors.
+- Then ask the user again for a new number to check.
+- Must validate user input.
+- If the user input zero, terminate the program.
 
-- Write a program that will ask a user for a number, then the program will output a countdown (in seconds) from that number to zero then ask again the user for new input.
-> Hint: you can use the sleep function to halt the program for specified milliseconds.
-- Must validate the input of the user.
-- If the user inputs zero, the program should terminate.
